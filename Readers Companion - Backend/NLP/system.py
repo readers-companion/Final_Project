@@ -28,7 +28,7 @@ import neuralcoref # pip install neuralcoref
 sys.path.append( '.' ) 
 from coref import Coreference
 
-client = jsonbin.Client('6021a91306934b65f5305bb6')
+client = jsonbin.Client('###')
 
 
 arguments = sys.argv
