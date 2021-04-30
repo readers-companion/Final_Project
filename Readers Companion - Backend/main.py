@@ -10,7 +10,7 @@ from pydrive.drive import GoogleDrive
 
 # Boot Backend
 
-client = jsonbin.Client('6021a91306934b65f5305bb6')
+client = jsonbin.Client('####')
 
 def json_bin(*args):
 	while True:
