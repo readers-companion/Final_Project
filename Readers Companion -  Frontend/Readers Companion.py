@@ -24,8 +24,8 @@ import queue
 
 def synthesise(words, file="data/synthesis.mp3"):
 	polly_client = boto3.Session(
-				aws_access_key_id="AKIA5WPG66PZ6FRWS6LU",
-		aws_secret_access_key="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",
+				aws_access_key_id="####",
+		aws_secret_access_key="####",
 		region_name='us-west-2').client('polly')
 
 	response = polly_client.synthesize_speech(VoiceId='Amy',
@@ -36,7 +36,7 @@ def synthesise(words, file="data/synthesis.mp3"):
 	file.write(response['AudioStream'].read())
 	file.close()
 
-client = jsonbin.Client('6021a91306934b65f5305bb6')
+client = jsonbin.Client('####')
 
 
 # Audio recording parameters
