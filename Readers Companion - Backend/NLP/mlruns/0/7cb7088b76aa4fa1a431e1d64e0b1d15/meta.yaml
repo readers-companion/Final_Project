@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Edward/MiniProject/git/project/modular/mlruns/0/7cb7088b76aa4fa1a431e1d64e0b1d15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7cb7088b76aa4fa1a431e1d64e0b1d15
+run_uuid: 7cb7088b76aa4fa1a431e1d64e0b1d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1610641251206
+status: 1
+tags: []
+user_id: shollands

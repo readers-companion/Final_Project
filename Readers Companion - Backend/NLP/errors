@@ -1,0 +1,1 @@
+AuthorizationException(403, 'cluster_block_exception', 'index [document] blocked by: [FORBIDDEN/12/index read-only / allow delete (api)];')

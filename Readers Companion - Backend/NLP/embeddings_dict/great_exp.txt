@@ -1,0 +1,17 @@
+House: house home
+Satis: house home
+Miss: lady
+Havisham: Smith
+Miss Havisham: lady Smith
+Pip: Jack
+Magwitch: John
+Abel: man John
+Abel Magwitch: man John
+Compeyson: man Paul
+Estella: Emma
+Gargery: Thompson
+Joe Gargery: Joe Thompson
+Bentley Drummie: Joe
+Bentley: Joe
+Drummie: Joe 
+Orlick: man Edward

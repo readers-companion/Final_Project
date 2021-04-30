@@ -1,0 +1,24 @@
+1GPU_29RAM
+top_50_wiki_results_2
+TfidfRetriever
+deepset/roberta-base-squad2
+2
+True
+Great Expectations
+Where does Miss Havisham live?
+What does she usually wear?
+How does Pip know Joe Gargery?
+What trade does Pip learn from him?
+Miss Havisham still wears a wedding dress why does she wear it?
+Where does she live?
+Who is Estella's father?
+Who did she marry?
+Where was Magwitch before he returned to England?
+Who is Estella's husband?
+Why did she decide to marry Bentley Drummie?
+Why is Pip arrested?
+What does he do for a job in Cairo?
+What is Joe Gargery's trade?
+Who is his uncle? 
+Why did Magwitch and Compeyson fight?
+Where did they fight?

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shollands/Desktop/Readers%20Companion/mlruns/0/43cec8bcedea4c83bcfad3ba23c97f36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 43cec8bcedea4c83bcfad3ba23c97f36
+run_uuid: 43cec8bcedea4c83bcfad3ba23c97f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615480349520
+status: 1
+tags: []
+user_id: shollands
