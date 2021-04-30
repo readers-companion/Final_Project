@@ -1,0 +1,11 @@
+numpy==1.18.5
+pandas
+jsonbin
+pydrive
+fuzzywuzzy
+pydub
+boto3
+google-cloud-speech
+pyaudio
+requests
+simpleaudio

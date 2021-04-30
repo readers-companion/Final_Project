@@ -1,0 +1,18 @@
+Instructions for running the ASR system on Linux
+
+You need the following files:
+
+Loginned.py  (main ASR code)
+get_proper_names.py   (gets the unusual names from a book)
+Initial Test-7a18acb3c794.json  (the google speech API authentication info)
+runASR.sh   (script to sort out authenication and call everything else)
+google-10000-english.txt   (a list of the most common English words)
+A book - the following are included here:
+    War and Peace
+    The Tennant of Wildfell Hall
+    Great Expectations
+    Dream of the Red Chamber
+
+To run it, make sure everything is in the same folder, then run runASR.sh in the command line. It will write the output to a json file "data_file.json" in the same folder.
+
+The system will only record questions that are within 20 seconds of its keyword, currently "Kylie". 
